@@ -1,4 +1,4 @@
-# Sistema Bancário em Python
+# Desafio DIO Sistema Bancário em Python
 
 ## Objetivo Geral
 Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações: depósito, saque e extrato.
@@ -23,5 +23,3 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 5. Para sair do programa, escolha a opção "4. Sair".
 
 Esse é um projeto simples em Python que simula um sistema bancário com funcionalidades básicas de depósito, saque e extrato. Sinta-se à vontade para contribuir, melhorar ou adaptar esse código conforme suas necessidades.
-
-Divirta-se e bons estudos!
